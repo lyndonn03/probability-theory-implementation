@@ -35,5 +35,5 @@ def permutation(n, r):
     return factorial_of(n)/factorial_of(n-r)
 
 
-print('The answer is: {}'.format(factorial_of(4)))
-print('The answer is: {}'.format(permutation(24, 4)))
+# print('The answer is: {}'.format(factorial_of(4)))
+# print('The answer is: {}'.format(permutation(24, 4)))
